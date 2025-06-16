@@ -1,0 +1,33 @@
+.full{
+    background-image: url('../assets/Hero-bg.png');
+    background-size: 80%; 
+    margin-top: 100px;
+
+   
+}
+.first {
+   justify-items: center;
+
+}
+
+.text{
+    text-align: center;
+}
+.first-btn{
+    padding: 5px;
+    color: white;
+    background-color:black
+   
+}
+.pragraph{
+    text-align: center;
+}
+.btn-second{
+    background-color: white;
+   
+
+}
+.right{
+    display: flex;
+    justify-content: space-between;
+}
