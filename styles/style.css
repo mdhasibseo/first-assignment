@@ -53,4 +53,38 @@
 }
 .video{
     justify-items: center;
+    margin: 50px;
+    padding: 20px;
+}
+.thrid-text{
+    text-align: center;
+}
+.first-logo{
+    display: flex;
+   justify-content: center;
+}
+.target{
+    margin: 50px;
+    padding: 20px;
+}
+.html{
+    border-radius: 10px;
+   padding: 30px;
+    margin: 20px;
+   background-color: rgb(224, 236, 241);
+}
+.css{
+      border-radius: 10px;
+    padding: 30px;
+    margin: 20px;
+    background-color: rgb(224,236 , 241);
+}
+.java{
+      border-radius: 10px;
+    padding: 30px;
+    margin: 20px;
+     background-color: rgb(224,236 , 241);
+}
+.anhor{
+    color: black;
 }
