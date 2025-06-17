@@ -28,6 +28,29 @@
 
 }
 .right{
+  display: flex;
+  justify-content:end;
+}
+.problem{
+    margin-top: -200px;
+}
+.flex{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-between ;
+    
+    
+}
+.btn-2{
+    background-color: white;
+    width: 100px;
+    height: 30px;
+}
+
+.full-second{
+    background-color: rgb(236, 242, 245);
+    margin: 50px;
+    padding: 50px;
+}
+.video{
+    justify-items: center;
 }
