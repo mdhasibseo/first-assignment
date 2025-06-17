@@ -88,3 +88,25 @@
 .anhor{
     color: black;
 }
+.next{
+    justify-items: center;
+}
+.react{
+    display: flex;
+}
+.js{
+    margin-top: 30px;
+}
+.r-pra{
+    margin-left: 35px;
+    line-height: normal}
+.full-4{
+    margin: 50px;
+   padding: 50px;
+}
+.margin{
+    padding: 20px;
+    border-radius: 10px;
+    margin: 30px;
+    background-color: rgb(242, 244, 245);
+}
