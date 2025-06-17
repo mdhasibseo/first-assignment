@@ -15,7 +15,7 @@
 }
 .first-btn{
     padding: 5px;
-    color: white;
+   color: white;
     background-color:black
    
 }
@@ -109,4 +109,32 @@
     border-radius: 10px;
     margin: 30px;
     background-color: rgb(242, 244, 245);
+}
+.last-1{
+    justify-items: center;
+    padding-top: 250px;
+    padding-bottom: 200px;
+}
+.inp{
+    width: 500px;
+    height: 30px;
+    border-radius: 10px;
+}
+.in{
+    height: 35px;
+    border-radius: 10px;
+}
+.last{
+    background-image:url('../assets/handshake.jpg') ;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    margin: 50px;
+    margin-bottom: -50px;
+    
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    margin: 50px;
+    margin-top: 80px;
 }
